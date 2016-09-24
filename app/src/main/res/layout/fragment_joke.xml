@@ -12,7 +12,7 @@
         android:layout_height="match_parent"
         >
 
-        <com.socks.jiandan.view.AutoLoadRecyclerView
+        <com.exmyth.mobile.fishing.view.AutoLoadRecyclerView
             android:id="@+id/recycler_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -25,7 +25,7 @@
         layout="@layout/commont_nothing_error"
         />
 
-    <com.socks.jiandan.view.googleprogressbar.GoogleProgressBar
+    <com.exmyth.mobile.fishing.view.googleprogressbar.GoogleProgressBar
         android:id="@+id/google_progress"
         android:layout_width="50dp"
         android:layout_height="50dp"
